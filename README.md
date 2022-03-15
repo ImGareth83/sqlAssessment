@@ -38,30 +38,43 @@ learn_java
 
 -Apply SQL techniques for querying, aggregating and joining data.
 \
+&nbsp;
 -Solve the given challenges using SQL.
-
+\
+&nbsp;
 What are the Top 25 schools with the most number of students in descending order on .edu domains? 
 \
+&nbsp;
 Please filter by school email domain and the number of students.
 \
+&nbsp;
 List out all the cities with the number of students from the respective cities in descending order.
 \
+&nbsp;
 The mobile_app column contains either mobile-user or NULL (Empty). How many of these students are using the mobile app and how many are not? Please show the results in percentages (%).
 \
+&nbsp;
 How many students have completed sql from ALL Schools?
 \
+&nbsp;
 List out all students’ details with the sign up date from 1st of March 2017 to 15th April 2017.
 \
+&nbsp;
 Join the two tables using JOIN and then see what you can dig out of the data! What courses are the New Yorkers students taking? (List according to ascending order of email_domain)
 \
+&nbsp;
 List the details of the students completed sql and java from their respective Schools (.edu domains)  (List according to ascending order of email_domain)
 \
+&nbsp;
 List the details of the students with their modules progress in the City that starts with ‘F’ or the City that ends with ‘D’.
 \
+&nbsp;
 List the details of the students taking different courses from the School with the most number of students. (Note: You are not supposed to use the answer derived from Question 1a)
 \
+&nbsp;
 Which module is most popular among the students from the School with the most number of students? And which module is the least popular among the students? (Hint: Count(If))
 \
+&nbsp;
 ## My process
 
 ### Built with
@@ -76,7 +89,6 @@ It is a good revision on SQL especially on the JOIN and Subquery. These were cha
 I used the MySQL CLI to perform the assessment. In the initial, i would use database, sqlAssessment to avoid repeating the database name throughout all my queries. 
 \
 &nbsp;
-
 - what did i struggle with in this project?
 As mentioned, I struggled on the last two questions mainly because I was not familiar with LEFT JOIN and Subquery. Beside that, I needed to know how to use the two in conjunction. This was very challenging. I managed to overcome it by researching online and trial and error. 
 \
